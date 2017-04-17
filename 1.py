@@ -1,3 +1,5 @@
+''' MILLER-RABIN '''
+
 import random
 
 def _try_composite(alpha, delta, inpoot, sam):
